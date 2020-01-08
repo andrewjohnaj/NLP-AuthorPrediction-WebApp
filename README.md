@@ -15,7 +15,7 @@ The WebApp can take tweets as the input, and can give out the prediction at the 
 
 ### Process Flow
 
-![Process Flow](/images/logo.png)
+![Process Flow](/images/Process_Flow_Meeshkan.png)
 
 #### Contact
 
