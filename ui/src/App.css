@@ -1,0 +1,60 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  background: url("web_bg.jpg");
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+.heading {
+  font-weight: 700;
+}
+.subheading {
+  font-weight: 300;
+}
+
+.bg {
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content {
+  margin: auto;
+  margin-top: 20px;
+  width: 70%;
+  height: auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.title {
+  padding-top: 100px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 4em;
+  letter-spacing: 0.15rem;
+  color: #fff;
+}
+
+label {
+  color: #333;
+}
+
+.result-container {
+  text-align: center;
+  font-weight: 600;
+  font-size: 4em;
+  letter-spacing: 0.15rem;
+  padding: 20px 0 0;
+}
+
+#result {
+  color: #000;
+}
