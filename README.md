@@ -1,4 +1,4 @@
-# Twitter Author Attribution (Meeshkan Data Challenge)
+# NLP + Model API + Web App [Twitter Author Attribution]
 
 This repository contains the source code used to develop the model for author prediction and the web app with Flask and React.js, to serve the predictions.
 
