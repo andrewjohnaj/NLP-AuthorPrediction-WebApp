@@ -4,7 +4,7 @@ This repository contains the source code used to develop the model for author pr
 
 ### Demo
 
-GIF of the web app demonstration:
+GIF of the web app demo with examples:
 
 ![Demo](/images/Demo_WebApp_Attribution_Andrew.gif)
 
