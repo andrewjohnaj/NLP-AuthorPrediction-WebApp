@@ -55,7 +55,7 @@ class MainClass(Resource):
 			response = jsonify({
 				"statusCode": 200,
 				"status": "Prediction made",
-				"result": "Tweeter: " + ", ".join(prediction)
+				"result": "The message : " + ", ".join(prediction)
 				})
 			response.headers.add('Access-Control-Allow-Origin', '*')
 			return response
