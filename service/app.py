@@ -8,7 +8,6 @@ import re
 import ktrain 
 import logging
 import os
-
 import tensorflow as tf
 tf.get_logger().setLevel('INFO')
 
