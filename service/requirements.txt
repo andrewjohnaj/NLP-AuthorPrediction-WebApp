@@ -19,3 +19,4 @@ Werkzeug==0.15.2
 joblib==0.13.2
 nltk==3.4.5
 pandas==0.25.2
+# ktrain==0.27.3
